@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "UNO_sentUART",
+			"path": "UNO_sentUART"
+		}
+	],
+	"settings": {}
+}
