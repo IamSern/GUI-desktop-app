@@ -6,5 +6,6 @@ void setup() {
 
 void loop() {
   Serial.print("halo\n");
+  Serial.print("dang test serial python\n");
   delay(1000);
 }
